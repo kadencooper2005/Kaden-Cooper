@@ -35,8 +35,8 @@ Skilled in **Cisco Networking, Python, PowerShell, Linux, and Cloud Networking**
 ---
 
 ## Let's Connect!
-**LinkedIn**: [🔗 My Profile](https://www.linkedin.com/in/kaden-cooper-840192276/?trk=opento_sprofile_topcard)  
-**GitHub**: [🔗 @kaden-cooper]([https://github.com/kaden-cooper](https://github.com/kadencooper2005/Kaden-Cooper))  
-**Email**: [📩 Contact Me](mailto:kadencooper608@gmail.com)  
+**LinkedIn**: [My Profile](https://www.linkedin.com/in/kaden-cooper-840192276/?trk=opento_sprofile_topcard)  
+**GitHub**: [@kaden-cooper](https://github.com/kadencooper2005/Kaden-Cooper)  
+**Email**: [Contact Me](mailto:kadencooper608@gmail.com)  
 
 

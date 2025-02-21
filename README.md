@@ -1,17 +1,17 @@
 # Kaden-Cooper
 
-# 💻 Kaden Cooper | Network Engineer & IT Support Enthusiast
-🚀 Passionate about networking, IT support, and network automation.  
-🛠 Skilled in **Cisco Networking, Python, PowerShell, Linux, and Cloud Networking**.
+# Kaden Cooper | Network Engineer & IT Support Enthusiast
+Passionate about networking, IT support, and network automation.  
+Skilled in **Cisco Networking, Python, PowerShell, Linux, and Cloud Networking**.
 
-## 🛠 Skills & Tools
+## Skills & Tools
 - **Networking**: Cisco (OSPF, BGP, VLANs), Packet Tracer, GNS3, Wireshark, Firewall Configurations
 - **Programming & Automation**: Python, PowerShell, Bash, Ansible, Netmiko
 - **Monitoring & Security**: ELK Stack, Nmap, Nagios, Zabbix, IDS/IPS
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ###  1. Network Simulation & Troubleshooting
  **Description**: A multi-router network with VLANs, OSPF, and BGP. Includes simulated network issues and troubleshooting steps.  
@@ -34,9 +34,9 @@
 
 ---
 
-##Let's Connect!
-**LinkedIn**: [🔗 My Profile](https://linkedin.com/in/kaden-cooper)  
-**GitHub**: [🔗 @kaden-cooper](https://github.com/kaden-cooper)  
-**Email**: [📩 Contact Me](mailto:kaden.cooper@example.com)  
+## Let's Connect!
+**LinkedIn**: [🔗 My Profile](https://www.linkedin.com/in/kaden-cooper-840192276/?trk=opento_sprofile_topcard)  
+**GitHub**: [🔗 @kaden-cooper]([https://github.com/kaden-cooper](https://github.com/kadencooper2005/Kaden-Cooper))  
+**Email**: [📩 Contact Me](mailto:kadencooper608@gmail.com)  
 
 

@@ -2,7 +2,7 @@
 
 # Kaden Cooper | Network Engineer & IT Support Enthusiast
 Passionate about networking, Software Development, and network automation.  
-Skilled in **Cisco Networking, Python, PowerShell, Linux, and Cloud Networking**.
+Skilled in **Networking, Python, PowerShell, Linux, and Cloud Networking**.
 
 ## Skills & Tools
 - **Networking**: Cisco (OSPF, BGP, VLANs), Packet Tracer, Wireshark, Firewall Configurations

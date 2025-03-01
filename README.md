@@ -1,4 +1,4 @@
-# Kaden-Cooper
+
 
 # Kaden Cooper | Network Engineer & IT Support Enthusiast
 Passionate about networking, Software Development, and network automation.  
@@ -21,14 +21,14 @@ A simulated **enterprise-sized network** implementing a **multi-layer architectu
 **Tools Used**:  
 Packet Tracer, Wireshark, OSPF, EIGRP, BGP, STP, ACLs, DHCP, VLANs  
 
-### 2. Network Architecture
+### Network Architecture
 
 - **Core Layer**: High-speed core switches (CSW1 & CSW2) providing backbone connectivity.  
 - **Distribution Layer**: Layer 3 distribution switches (DSW-A1, DSW-A2, DSW-B1, DSW-B2) for VLAN segmentation, routing, and redundancy.  
 - **Access Layer**: Access switches (ASW-A1, ASW-A2, ASW-A3, ASW-B1, ASW-B2, ASW-B3) connecting end-user devices.  
 - **Routing**: Central **router (R1) connects to the ISP** for external network access.  
 
-### 3. Protocols & Features Implemented  
+### Protocols & Features Implemented  
 
 - **VLANs**: Implemented for network segmentation and security.  
 - **Spanning Tree Protocol (STP)**: Enabled to prevent switching loops and ensure redundancy.  
@@ -40,7 +40,7 @@ Packet Tracer, Wireshark, OSPF, EIGRP, BGP, STP, ACLs, DHCP, VLANs
 - **DHCP**: Automated IP address assignment for end devices.  
 - **ACLs**: Configured for traffic filtering and network security.  
 
-### 4. Network Troubleshooting & Analysis
+### Network Troubleshooting & Analysis
 
 - **Simulated Network Issues**:  
   - VLAN misconfigurations causing connectivity failures.  

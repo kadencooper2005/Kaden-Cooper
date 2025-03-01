@@ -51,7 +51,7 @@ Packet Tracer, Wireshark, OSPF, EIGRP, BGP, STP, ACLs, DHCP, VLANs
   - **Ping & Traceroute** for network path verification.  
   - **Show Commands (`show vlan`, `show ip route`, etc.)** for debugging misconfigurations.  
 
-**GitHub Repo**: [View Project]([https://github.com/kaden-cooper/network-troubleshooting](https://github.com/kadencooper2005/ent-network-troubleshooting))  
+**GitHub Repo**: [View Project]([https://github.com/kadencooper2005/ent-network-troubleshooting])  
 
 ---
 

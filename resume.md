@@ -2,9 +2,9 @@
 
 **Email:** [kadencooper608@gmail.com]  
 **Phone:** [303-888-0959]  
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/kaden-cooper-840192276/)  
-**GitHub:** [Github]  
-**Location:** Colorado  
+**LinkedIn:** [View Profile](https://www.linkedin.com/in/kaden-cooper-840192276/)  
+**GitHub:** [View Profile]  
+**Location:** Brighton, Colorado  
 
 ---
 

@@ -8,13 +8,13 @@
 
 ---
 
-## ⭐ Professional Summary  
+## Professional Summary  
 
 IT and network engineer with hands-on experience in enterprise network design, IT automation, and cybersecurity. Skilled in configuring, troubleshooting, and optimizing multi-vendor infrastructures with a focus on efficiency, security, and scalability. Strong background in Python automation (**Netmiko, Ansible**), penetration testing, and system administration. Passionate about leveraging automation and security to enhance IT operations. Seeking to apply expertise in **network engineering, IT support, and cybersecurity** in a dynamic environment.
 
 ---
 
-## 🛠 Technical Skills  
+## Technical Skills  
 
 - **Networking:** Cisco, Juniper, Arista, VLANs, Firewalls, VPNs, Routing & Switching  
 - **Cybersecurity:** Penetration Testing, SIEM, Vulnerability Assessments, Network Security  
@@ -25,7 +25,7 @@ IT and network engineer with hands-on experience in enterprise network design, I
 
 ---
 
-## 💻 Experience & Projects  
+## Experience & Projects  
 
 ### **Network Automation Tool (Personal Project)**  
 - Developed an automated network configuration tool using **Python and Netmiko**.  
@@ -44,7 +44,7 @@ IT and network engineer with hands-on experience in enterprise network design, I
 
 ---
 
-## 📜 Certifications & Training  
+## Certifications & Training  
 
 - **CompTIA Network+** *(In Progress)*  
 - **Cisco CCNA** *(In Progress)*    
@@ -52,7 +52,7 @@ IT and network engineer with hands-on experience in enterprise network design, I
 
 ---
 
-## 📚 Education & Self-Study  
+## Education & Self-Study  
 
 - Self-taught in **network engineering, cybersecurity, and IT automation** through hands-on labs and online resources.  
 - Extensive practice with **TryHackMe, Hack The Box, and Packet Tracer** for network simulation.  
@@ -60,14 +60,14 @@ IT and network engineer with hands-on experience in enterprise network design, I
 
 ---
 
-## 💻 Languages & Frameworks  
+## Languages & Frameworks  
 
 - **Languages:** Python, JavaScript, Bash, PowerShell  
 - **Frameworks & Libraries:** Flask, Next.js, React, Node.js  
 
 ---
 
-## 📞 Contact & Availability  
+## Contact & Availability  
 
 **Open to full-time, contract, and freelance opportunities** in **network engineering, IT Support, and cybersecurity**.  
 Available for **remote and on-site roles, remote preferred**.  

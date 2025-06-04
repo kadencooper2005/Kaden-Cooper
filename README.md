@@ -1,19 +1,32 @@
 
 
-# Kaden Cooper | IT Specialist
-Passionate about forming creative solutions for end-users/Sass development/blockchain/cybersecurity
-Skilled in **Automation/Big-Data Visulization/full-stack development
+Kaden Cooper | IT Specialist
 
-## Skills & Tools
-- **Programming & Automation**: Python, JavaScript, C/C++, PHP, powershell, Solidity. 
-- **Monitoring & Security**: ELK Stack, Nmap, Nagios, Zabbix, IDS/IPS
-- 
+Creative problem-solver passionate about crafting efficient, user-centered solutions across SaaS development, blockchain, cybersecurity, and automation.
+Dedicated to building scalable systems and secure infrastructures that empower users and businesses alike.
+ Skills & Technologies
+ Programming & Automation
 
----
+    Python, JavaScript, C/C++, PHP, PowerShell, Solidity
 
-## Featured Project(s)
+    Scripting and task automation for system efficiency
 
-Kaitanna - AI companion/"Bestfriend"
+ Monitoring & Security
+
+    ELK Stack, Nmap, Nagios, Zabbix
+
+    IDS/IPS systems, network monitoring, vulnerability assessments
+
+ Full-Stack Development
+
+    REST APIs, Database Design, Frontend/Backend Integration
+
+    Agile workflows & scalable deployment strategies
+
+ Featured Project
+Kaitanna — AI Companion & Virtual Best Friend
+
+A virtual AI friend designed for meaningful interactions and emotional support.
 
 **GitHub Repo**: [View Project](https://github.com/kadencooper2005/Kaitanna)  
 

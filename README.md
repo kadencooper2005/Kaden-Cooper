@@ -11,7 +11,7 @@ Skilled in **Automation/Big-Data Visulization/full-stack development
 
 ---
 
-## Featured Projects
+## Featured Project(s)
 
 Kaitanna - AI companion/"Bestfriend"
 

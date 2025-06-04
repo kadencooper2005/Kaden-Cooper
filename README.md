@@ -4,7 +4,9 @@ Kaden Cooper | IT Specialist
 
 Creative problem-solver passionate about crafting efficient, user-centered solutions across SaaS development, blockchain, cybersecurity, and automation.
 Dedicated to building scalable systems and secure infrastructures that empower users and businesses alike.
+
  Skills & Technologies
+ 
  Programming & Automation
 
     Python, JavaScript, C/C++, PHP, PowerShell, Solidity

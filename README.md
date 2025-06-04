@@ -13,7 +13,7 @@ Skilled in **Automation/Big-Data Visulization/full-stack development
 
 ## Featured Projects
 
-#Kaitanna - AI companion/"Bestfriend"
+Kaitanna - AI companion/"Bestfriend"
 
 **GitHub Repo**: [View Project](https://github.com/kadencooper2005/Kaitanna)  
 

@@ -40,8 +40,6 @@ A virtual AI friend designed for meaningful interactions and emotional support.
 
 **LinkedIn**: [My Profile](https://www.linkedin.com/in/kaden-cooper-840192276/?trk=opento_sprofile_topcard)  
 
-**GitHub**: [@kaden-cooper](https://github.com/kadencooper2005/Kaden-Cooper)  
-
 **Email**: [Contact Me](mailto:kadencooper608@gmail.com)  
 
 

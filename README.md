@@ -26,9 +26,9 @@ Dedicated to building scalable systems and secure infrastructures that empower u
     Agile workflows & scalable deployment strategies
 
  Featured Project
-Kaitanna — AI Companion & Virtual Best Friend
+Kaitanna — Companian and Best Friend
 
-A virtual AI friend designed for meaningful interactions and emotional support.
+A mood-journaling/trackning app designed to track and visualize ones mood(s).
 
 **GitHub Repo**: [View Project](https://github.com/kadencooper2005/Kaitanna)  
 
